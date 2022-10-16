@@ -1,33 +1,41 @@
-Order summary card
-Design preview for the Order summary card coding challenge
+# Order summary card solution
 
-Table of contents
+This is a solution to the [Order summary card challenge on Frontend Mentor]
 
-overview
-links
-built-with
-useful-resources
-author
+## Table of contents
 
-Overview
+- overview
+- links
+- built-with
+- useful-resources
+- author
 
-Links
 
-Solution URL: https://codesandbox.io/s/great-firefly-yk0u5p?file=/index.html:0-4019
-Live Site URL: https://yk0u5p.csb.app/
+## Overview
 
-Built with
 
-Semantic HTML5 markup
-CSS custom properties
-Flexbox
+### Links
 
-Useful resources
+- Solution URL: https://codesandbox.io/s/great-firefly-yk0u5p?file=/index.html:0-4019
+- Live Site URL: https://yk0u5p.csb.app/
 
-https://developer.mozilla.org/en-US/
-https://css-tricks.com/
-https://www.w3schools.com/
+### Built with
 
-Author
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+
+### Useful resources
+
+- https://developer.mozilla.org/en-US/
+- https://css-tricks.com/
+- https://www.w3schools.com/
+
+## Author
 
 https://www.linkedin.com/in/avtandil-kakhiani-ab029b253/
+
+
+
+
